@@ -3,6 +3,7 @@ height: 100%;
 position: absolute;
 top:0px;
 left:1%;
+overflow: scroll;
 border: 1px solid blue;}
 h1 {margin-top: 0%;}
 .menu {width: 10%;
@@ -10,18 +11,21 @@ height: 60%;
 position: absolute;
 top:15%;
 left:2%;
+overflow: scroll;
 border: 1px solid blue;}
 main {width: 84%;
 height: 73%;
 position: absolute;
 top: 9%;
 left:13%;
+overflow: scroll;
 border: 1px solid blue;}
 footer {width: 80%;
 height: 10%;
 position: absolute;
 left:10%;
 bottom: 5%;
+overflow: scroll;
 border: 1px solid blue;
 text-align: center;
 color: gray;}
